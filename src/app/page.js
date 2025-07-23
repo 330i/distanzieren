@@ -25,7 +25,7 @@ export default function Home() {
                 />
                 <label
                     htmlFor="img-uploader"
-                    className="flex flex-col justify-center items-center gap-2"
+                    className="w-full h-full flex flex-col justify-center items-center gap-2"
                 >
                     <div
                         className="p-4 rounded-2xl ring-2 ring-blue-400 shadow-lg shadow-blue-700/50 inset-shadow-sm inset-shadow-blue-700"
